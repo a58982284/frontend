@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>小李的练习</title>
+    <script>
+        // var result = Math.max(10,20,30,40);
+        // console.log(result)
+
+        function Mymath() {
+            this.getMax=function () {
+                var max=arguments[0];
+                for(var i=0;i<arguments.length;i++){
+                    if (max<arguments[i]){
+                        max=arguments[i];
+                    }
+                }
+                return max;
+            }
+        }
+        var mt=new Mymath();
+        var result=mt.getMax(10,20,30,40,100,3);
+        console.log(result);
+
+    </script>
+
+
+</head>
+<body>
+
+</body>
+</html>
