@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>15</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        div{
+            width: 200px;
+            height: 150px;
+            background-color: green;
+            float: left;
+            margin-left: 10px;
+            border: 2px solid green;
+        }
+
+    </style>
+
+
+</head>
+<body>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<script src="common.js"></script>
+<script>
+    var dvObjs=document.getElementsByTagName("div");
+    for (var i=0;i<dvObjs.length;i++){
+        dvObjs[i].onmouseover=function () {
+            this.style.border="2px solid red";
+        };
+        dvObjs[i].onmouseout=function () {
+            this.style.border="";
+        };
+
+    }
+</script>
+
+</body>
+</html>

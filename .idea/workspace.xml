@@ -2,23 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c87f45d-a132-4f2e-8e77-b9017daf7ae9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/webapi1/14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/21.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/22.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/23.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/24.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/25.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/26.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/27.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/28.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/29.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi1/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/0f000PC3L7v5WMl_8bcCX6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/1-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/2-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/3-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/4-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/456.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/5-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/bgs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/birdfly.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/boduo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/bpic_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/cangjingkong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/cloud.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/content_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/lb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/lb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/lb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/lb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/lb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/libai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/linzhiling.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/liuyan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/noavatar_small.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/search.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/taobao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/tianshi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/tip1_c.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/tip1_f.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/tip1_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/xiaoniao.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/卡卡西.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/大蛇丸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi2/images/百度换肤.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,95 +93,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="21.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/21.html">
+      <file leaf-file-name="24.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webapi2/24.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="22.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/22.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="23.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/23.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="34" column="40" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="24.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/24.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="25.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/25.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="26.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/26.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" lean-forward="true" selection-end-line="29" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="27.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/27.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="26" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="28.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/28.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="29.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webapi1/29.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi1/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="464">
+              <caret line="83" column="35" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -139,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day06/Math对象的案例1.html" />
         <option value="$PROJECT_DIR$/day06/Math对象的案例2.html" />
         <option value="$PROJECT_DIR$/day06/05Date对象.html" />
         <option value="$PROJECT_DIR$/格式化日期和时间的套路.html" />
@@ -170,6 +148,27 @@
         <option value="$PROJECT_DIR$/webapi1/27.html" />
         <option value="$PROJECT_DIR$/webapi1/28.html" />
         <option value="$PROJECT_DIR$/webapi1/29.html" />
+        <option value="$PROJECT_DIR$/webapi2/3.html" />
+        <option value="$PROJECT_DIR$/webapi2/4.html" />
+        <option value="$PROJECT_DIR$/webapi2/5.html" />
+        <option value="$PROJECT_DIR$/webapi2/common.js" />
+        <option value="$PROJECT_DIR$/webapi2/6.html" />
+        <option value="$PROJECT_DIR$/webapi2/7.html" />
+        <option value="$PROJECT_DIR$/webapi2/8.html" />
+        <option value="$PROJECT_DIR$/webapi2/9.html" />
+        <option value="$PROJECT_DIR$/webapi1/10.html" />
+        <option value="$PROJECT_DIR$/webapi2/10.html" />
+        <option value="$PROJECT_DIR$/webapi2/11.html" />
+        <option value="$PROJECT_DIR$/webapi2/12.html" />
+        <option value="$PROJECT_DIR$/webapi2/15.html" />
+        <option value="$PROJECT_DIR$/webapi2/16.html" />
+        <option value="$PROJECT_DIR$/webapi2/17.html" />
+        <option value="$PROJECT_DIR$/webapi2/18.html" />
+        <option value="$PROJECT_DIR$/webapi2/19.html" />
+        <option value="$PROJECT_DIR$/webapi2/21.html" />
+        <option value="$PROJECT_DIR$/webapi2/22.html" />
+        <option value="$PROJECT_DIR$/webapi2/23.html" />
+        <option value="$PROJECT_DIR$/webapi2/24.html" />
       </list>
     </option>
   </component>
@@ -205,7 +204,7 @@
             <path>
               <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="webapi1" type="462c0819:PsiDirectoryNode" />
+              <item name="webapi2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,6 +220,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\frontend\webapi2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\frontend\webapi2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -258,7 +265,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14913657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18995291" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -281,152 +288,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webapi1/10点击按钮显示图片.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/11点击按钮修改P标签的内筒.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/Math对象的案例1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/Math对象的案例2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/05Date对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/string对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/字符串案例.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/格式化日期和时间的套路.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/Math对象的案例1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/Math对象的案例2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/05Date对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/string对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/字符串案例.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/格式化日期和时间的套路.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Array对象.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1196">
@@ -452,9 +313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -580,59 +438,21 @@
     <entry file="file://$PROJECT_DIR$/webapi1/21.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapi1/22.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="578">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/common.js">
+    <entry file="file://$PROJECT_DIR$/webapi1/29.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/23.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="34" column="40" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/24.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/25.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/26.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/27.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="26" selection-end-column="45" />
+        <state relative-caret-position="391">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -643,10 +463,191 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapi1/29.html">
+    <entry file="file://$PROJECT_DIR$/webapi1/27.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="379">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi1/26.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="6" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi1/25.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi1/24.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi1/23.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi1/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/23.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/22.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi2/24.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="83" column="35" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>21</title>
+    <style>
+        ul{
+            list-style-type: none;
+            cursor: pointer;
+        }
+    </style>
+
+
+</head>
+<body>
+<ul id="uu">
+  <li score="10">助教的数学成绩</li>
+  <li score="20">班主任的成绩</li>
+  <li score="30">小苏的成绩</li>
+  <li score="40">小杰老师成绩</li>
+  <li score="50">乔峰成绩</li>
+</ul>
+<script src="common.js"></script>
+<script>
+    var list=document.getElementsByTagName("li");
+    for(var i =0;i<list.length;i++){
+        list[i].onclick=function () {
+            alert(this.getAttribute("score"));
+        }
+    }
+
+
+
+</script>
+</body>
+</html>
