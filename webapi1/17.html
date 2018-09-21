@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hi</title>
+</head>
+<body>
+<input type="button" value="按钮" id="btn" />
+<script>
+ var btnObj = document.getElementById("btn");
+ btnObj.onclick=function () {
+     //修改按钮的value属性
+     this.value="我是按钮,谁咬我,我就咬谁";
+     this.type="text";
+     this.id="btn2";
+ }
+
+</script>
+
+
+</body>
+</html>

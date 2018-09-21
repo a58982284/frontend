@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hi</title>
+</head>
+<style>
+    img{
+        width: 200px;
+        height: 150px;
+    }
+</style>
+
+<body>
+<img src="images/1.jpg" alt="" id="im1" />
+<img src="images/2.jpg" alt="" id="im2" />
+<img src="images/3.jpg" alt="" id="im3" />
+
+<script>
+    var imgObjs = document.getElementsByTagName("img");
+    for (var i =0; i<imgObjs.length;i++){
+        imgObjs[i].onclick=function () {
+            alert("被点击了");
+        }
+    }
+
+</script>
+
+
+
+
+</body>
+</html>
