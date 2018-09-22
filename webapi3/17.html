@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>17</title>
+    <style>
+    div {
+      width: 300px;
+      height: 400px;
+      background-color: green;
+    }
+  </style>
+</head>
+<body>
+<input type="button" value="创建列表" id="btn"/>
+<div id="dv"></div>
+<script src="common.js"></script>
+<script>
+    var names = ["杨过", "郭靖", "张无忌", "张三丰", "乔峰", "段飞", "丁棚"];
+    my$("btn").onclick = function () {
+        var str = "<ul style='list-style-type: none;cursor: pointer'>";
+        for (var i=0;i<names.length;i++){
+            str += "<li>"+names[i]+"</li>";
+            my$("dv").innerHTML =str;
+
+
+        var list = my$("dv").getElementsByTagName("li");
+        for (var i=0;i<list.length;i++){
+            list[i].onmouseover=function () {
+                this.style.backgroundColor="yellow";
+            };
+            list[i].onmouseout=function () {
+                this.style.backgroundColor="";
+            }
+        }
+
+        }
+    }
+
+</script>
+
+</body>
+</html>
