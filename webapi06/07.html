@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>7</title>
+    <style>
+    *{
+      margin: 0;
+      padding: 0;
+    }
+    div{
+      width: 200px;
+      height: 100px;
+      background-color: purple;
+      left:100px;
+      top:0;
+    }
+  </style>
+</head>
+<body>
+<input type="button" value="显示效果" id="btn">
+<div id="dv"></div>
+<script src="common.js"></script>
+<script>
+    function getStyle(element,attr) {
+        return window.getComputedStyle?window.getComputedStyle(element,null)[attr]:element.currentStyle[attr];
+
+    }
+
+    my$("btn").onclick=function () {
+        console.log(getStyle(my$("dv"),"top"));
+    }
+
+</script>
+
+
+</body>
+</html>
