@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>16</title>
+
+    <script>
+        function Animal(name,age) {
+            this.name=name;
+            this.age=age;
+        }
+        //原型中添加方法
+        Animal.prototype.eat =function () {
+            console.log("吃东西");
+            this.play();
+        };
+
+        Animal.prototype.play = function () {
+            console.log("玩球");
+            this.sleep();
+        };
+        Animal.prototype.sleep=function () {
+            console.log("睡觉了");
+        };
+
+        var dog = new Animal("叮当",1.5);
+        dog.eat();
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

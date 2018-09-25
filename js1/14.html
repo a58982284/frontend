@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function Student(name,age,sex) {
+            this.name=name;
+            this.age=age;
+            this.sex=sex;
+        }
+
+        Student.prototype.height="188";
+        Student.prototype.weight = "55kg";
+        Student.prototype.study=function () {
+            console.log("学习,写500行代码,小菜一碟");
+        };
+        Student.prototype.eat=function () {
+            console.log("吃一个10斤的西瓜");
+        };
+
+        var stu= new Student("叮当",2,"男");
+        console.dir(Student);
+        console.dir(stu);
+
+        stu.eat();
+        stu.study();
+    </script>
+
+
+</head>
+<body>
+
+</body>
+</html>
