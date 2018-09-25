@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c87f45d-a132-4f2e-8e77-b9017daf7ae9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/webapi06/04动画函数封装.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/04固定导航栏/4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/04固定导航栏/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/05变速动画函数封装.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/06筋斗云/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/06筋斗云/筋斗云.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/12手风琴/12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/12手风琴/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/13关机动画/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/13关机动画/关机动画.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/15旋转木马/15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/15旋转木马/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/15旋转木马/css/css(1).css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/15旋转木马/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapi06/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/10简单轮播图/10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/10简单轮播图/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/11左右焦点轮播图/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/11左右焦点轮播图/淘宝焦点图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/12无缝轮播图/12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/12无缝轮播图/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/13完整轮播图/13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/13完整轮播图/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiapi5/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,20 +29,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="15.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webapi06/15旋转木马/15.html">
+      <file leaf-file-name="13.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weiapi5/13完整轮播图/13.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="111" selection-start-line="111" selection-end-line="111" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapi06/15旋转木马/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="-731">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="e#2043#2047#1" expanded="true" />
+                <element signature="e#2071#2075#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,25 +52,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>current</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webapi2/10.html" />
-        <option value="$PROJECT_DIR$/webapi2/11.html" />
-        <option value="$PROJECT_DIR$/webapi2/12.html" />
-        <option value="$PROJECT_DIR$/webapi2/15.html" />
-        <option value="$PROJECT_DIR$/webapi2/16.html" />
-        <option value="$PROJECT_DIR$/webapi2/17.html" />
-        <option value="$PROJECT_DIR$/webapi2/18.html" />
-        <option value="$PROJECT_DIR$/webapi2/19.html" />
-        <option value="$PROJECT_DIR$/webapi2/21.html" />
-        <option value="$PROJECT_DIR$/webapi2/22.html" />
-        <option value="$PROJECT_DIR$/webapi2/23.html" />
-        <option value="$PROJECT_DIR$/webapi2/24.html" />
-        <option value="$PROJECT_DIR$/webapi3/common.js" />
         <option value="$PROJECT_DIR$/webapi3/8.html" />
         <option value="$PROJECT_DIR$/webapi3/9.html" />
         <option value="$PROJECT_DIR$/webapi3/10.html" />
@@ -116,6 +101,19 @@
         <option value="$PROJECT_DIR$/webapi06/17.html" />
         <option value="$PROJECT_DIR$/webapi06/15旋转木马/common.js" />
         <option value="$PROJECT_DIR$/webapi06/15旋转木马/15.html" />
+        <option value="$PROJECT_DIR$/weiapi5/common.js" />
+        <option value="$PROJECT_DIR$/weiapi5/03.html" />
+        <option value="$PROJECT_DIR$/weiapi5/04.html" />
+        <option value="$PROJECT_DIR$/weiapi5/05.html" />
+        <option value="$PROJECT_DIR$/weiapi5/06.html" />
+        <option value="$PROJECT_DIR$/weiapi5/07.html" />
+        <option value="$PROJECT_DIR$/weiapi5/08.html" />
+        <option value="$PROJECT_DIR$/weiapi5/09.html" />
+        <option value="$PROJECT_DIR$/weiapi5/10简单轮播图/10.html" />
+        <option value="$PROJECT_DIR$/weiapi5/11左右焦点轮播图.html" />
+        <option value="$PROJECT_DIR$/weiapi5/11左右焦点轮播图/淘宝焦点图.html" />
+        <option value="$PROJECT_DIR$/weiapi5/12无缝轮播图/12.html" />
+        <option value="$PROJECT_DIR$/weiapi5/13完整轮播图/13.html" />
       </list>
     </option>
   </component>
@@ -140,7 +138,37 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="weiapi5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="weiapi5" type="462c0819:PsiDirectoryNode" />
+              <item name="11左右焦点轮播图" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="weiapi5" type="462c0819:PsiDirectoryNode" />
+              <item name="13完整轮播图" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -152,11 +180,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\frontend\weiapi5\13完整轮播图" />
+      <recent name="D:\code\frontend\weiapi5\12无缝轮播图" />
+      <recent name="D:\code\frontend\weiapi5\11左右焦点轮播图" />
+      <recent name="D:\code\frontend\weiapi5\10简单轮播图" />
       <recent name="D:\code\frontend\webapi06\15旋转木马" />
-      <recent name="D:\code\frontend\webapi06" />
-      <recent name="D:\code\frontend\webapi06\13关机动画" />
-      <recent name="D:\code\frontend\webapi06\12手风琴" />
-      <recent name="D:\code\frontend\webapi06\06筋斗云" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\frontend\webapi2" />
@@ -188,7 +216,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="1" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -197,7 +226,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19937205" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3422292" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -220,104 +249,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webapi2/12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/15.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/16.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/17.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/18.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/19.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/21.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/23.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/22.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi2/24.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="94" column="31" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi3/8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi3/9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi3/10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi3/11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapi3/12.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
@@ -385,13 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="583">
           <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapi3/js随机点名系统.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="81" column="55" selection-start-line="81" selection-start-column="55" selection-end-line="81" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -501,13 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapi06/06筋斗云/筋斗云.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="94" column="26" lean-forward="true" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapi06/07.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -564,6 +481,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
           <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi3/js随机点名系统.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="120" column="21" lean-forward="true" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/11左右焦点轮播图.html" />
+    <entry file="file://$PROJECT_DIR$/weiapi5/11左右焦点轮播图/淘宝焦点图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="161" column="20" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/12无缝轮播图/imagess/01(1).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/12无缝轮播图/12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="63" column="15" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/10简单轮播图/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapi06/06筋斗云/筋斗云.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="109" column="11" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weiapi5/13完整轮播图/13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#2043#2047#1" expanded="true" />
+            <element signature="e#2071#2075#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
