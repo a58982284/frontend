@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3</title>
+    <script>
+        function Person (name,age) {
+            this.name=name;
+            this.age=age;
+            this.eat = function () {
+                console.log("吃好吃的");
+            };
+        }
+        Person.prototype.sex = "男";
+
+        Person.prototype.sayHi = function () {
+            console.log("您好");
+        };
+
+        var per = new Person("小明,20");
+        console.log(per.sayHi());
+
+        console.dir(per);
+        console.dir(Person);
+
+        console.log(per.__protp__==Person.prototype);
+
+
+    </script>
+
+
+</head>
+<body>
+
+</body>
+</html>
