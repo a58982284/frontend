@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>05</title>
+</head>
+<body>
+<ul>
+  <li id="cloth">衣服</li>
+  <li>裤子</li>
+  <li>裤衩子</li>
+  <li>袜子</li>
+</ul>
+<script src="jquery-1.12.4.js"></script>
+<script>
+    $(function () {
+        var cloth = document.getElementById("cloth");
+
+        var $li = $("li");
+        $li[1].style.backgroundColor = "red";
+        $li.get(2).style.backgroundColor = "yellow";
+    });
+
+</script>
+
+
+</body>
+</html>

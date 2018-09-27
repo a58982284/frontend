@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>08</title>
+</head>
+<body>
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li id="four">4</li>
+  <li>5</li>
+  <li class="green yellow">6</li>
+  <li class="green">7</li>
+  <li>8</li>
+  <li>9</li>
+  <li>10</li>
+</ul>
+
+<div class="green">111</div>
+<div class="green">111</div>
+<div class="green">111</div>
+<div class="green">111</div>
+
+<script src="jquery-1.12.4.js"></script>
+<script>
+    $(function () {
+        //$("#four").css("backgroundColor","red");
+        //$(".green").css("backgroundColor","green");
+        //$("li").css("color","yellow");
+
+        //$("#four,.green").css("backgroundColor","red");
+        $(".green.yellow").css("backgroundColor","pink");
+    })
+
+</script>
+</body>
+</html>
