@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+    div {
+      width: 400px;
+      height: 400px;
+      background-color: pink;
+    }
+  </style>
+</head>
+<body>
+<div id="box">
+  我是内容
+</div>
+
+<p>我是外面的p元素</p>
+
+<script src="jquery-1.12.4.js"></script>
+<script>
+    var $li = $('<a href="http://web.itcast.cn" target="_blank">传智大前端</a>');
+    //console.log($li);
+    //$("div").append('<a href="http://web.itcast.cn" target="_blank">传智大前端</a>');
+
+    $("div").app($("p"));
+
+
+</script>
+
+</body>
+</html>

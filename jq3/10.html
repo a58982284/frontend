@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" value="增加" id="btn">
+<div>
+  <p>111111</p>
+  <p>111111</p>
+  <p>111111</p>
+  <p>111111</p>
+</div>
+
+<script src="jquery-1.12.4.js"></script>
+<script>
+    $(function () {
+        $("div").on("click","p",function () {
+            alert("hehe")
+        });
+
+        $("#btn").on("click",function () {
+            $("<p>我是新建的p元素</p>").appendTo("div");
+        })
+    })
+
+</script>
+
+</body>
+</html>
