@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    $.ajax({
+        url:'./get.php',
+        type:'get',
+        dataType:'json',
+        data:{id:1},
+        beforeSend:function (xhr) {
+            console.log('before send')
+        },
+        success:function (data) {
+            console.log(data)
+        },
+        error:function (err) {
+            console.log(err)
+        },
+        complete:function () {
+            console.log('request completed')
+        }
+    })
+
+</script>
+</body>
+</html>

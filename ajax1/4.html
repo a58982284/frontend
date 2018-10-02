@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var xhr = new XMLHttpRequest()
+
+    xhr.open('GET','./delete.php?id=1')
+
+    xhr.send(null)
+
+    xhr.onreadystatechange = function () {
+        if (this.readyState ===4){
+            console.log(this.responseText)
+        }
+    }
+
+</script>
+<script>
+    var xhr = new XMLHttpRequest()
+
+    xhr.open('POST','./add.php')
+
+    xhr.setRequestHeader('Content-Type','application/x‐www‐form‐urlencoded')
+
+    xhr.send('key1=value1&key2=value2')
+
+    xhr.onreadystatechange = function () {
+        if (this.readyState ===4){
+            console.log(this.responseText)
+        }
+    }
+
+</script>
+
+</body>
+</html>

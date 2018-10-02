@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    xhr.open('GET','./time.php')
+
+    xhr.setRequestHeader('Accept','text/plain')
+
+    xhr.send(null)
+
+    xhr.onreadystatechange = function () {
+        if (this.readyState ===4){
+
+            console.log(this.status)
+
+            console.log(this.statusText)
+
+            console.log(this.getResponseHeader('Content-Type'))
+
+            console.log(this.getResponseHeader())
+
+            console.log(this.responseText)
+
+            console.log(this.responseXML)
+        }
+    }
+
+</script>
+</body>
+</html>

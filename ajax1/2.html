@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+</head>
+<body>
+<script>
+    var xhr = new XMLHttpRequest()
+    console.log(xhr.readyState)
+
+    xhr.open('GET','time.php')
+    console.log(xhr.readyState)
+
+    xhr.send()
+
+    xhr.addEventListener('readystatechange',function () {
+        switch (this.readyState){
+            case 2:
+
+                console.log(this.getResponseHeader('server'))
+
+                break
+
+            case 3:
+                console.log(this.responseText)
+
+                break
+
+            case 4:
+                console.log(this.responseText)
+
+                break
+        }
+    })
+
+    xhr.onreadystatechange = function () {
+        if (this.readyState===4){
+
+        }
+    }
+</script>
+</body>
+</html>
