@@ -308,3 +308,115 @@
     transition: all 3s;
     transform: translateX(1000px);
 }
+/*第五屏*/
+.screen05{
+    background: url("../images/05-bg.png");
+}
+.screen05 .sofa{
+    position: absolute;
+    bottom:100px;
+    left: 100px;
+    transform: rotate(30deg);
+    opacity: 0;
+    z-index: 1001;
+}
+.screen05 .card{
+    position: absolute;
+    left: 0;
+    bottom: 210px;
+    z-index: 1002;
+}
+.screen05 .card .cardImg{
+    position: relative;
+    z-index: 1;
+}
+.screen02 .card .orderImg{
+    position: absolute;
+    left: 130px;
+    top:-80px;
+    transform: translateY(80px);
+}
+.screen05 .content{
+    height: 100%;
+    background: rgba(0,0,0,0.2);
+}
+.screen05 .mouse{
+    position: absolute;
+    right:0;
+    top: 0;
+    overflow: hidden;
+    height: 100%;
+    width: 400px;
+}
+.screen05 .mouse .m1,
+.screen05 .mouse .m2{
+    position:absolute;
+    bottom:240px;
+    right: 0;
+}
+.screen05 .mouse .m2{
+    opacity: 0;
+}
+.screen05 .mouse .hand{
+    position:absolute;
+    bottom: 0;
+    right: 50px;
+    transform: translateY(500px);
+}
+.screen05 .text{
+    position: absolute;
+    bottom: 550px;
+    left: 0;
+}
+/*动画*/
+.screen05.now .mouse .hand{
+    transition: all 1s linear;
+    transform: none;
+}
+.screen05.now .mouse .m2{
+    transition: all 0.2s linear 1s;
+    opacity: 1;
+}
+.screen05.now .sofa{
+    animation: sofa05 2s linear 1.2s forwards;
+}
+@keyframes sofa05 {
+    from{
+        transform: translateY(-1000px) rotate(30deg);
+        opacity: 1;
+    }
+    50%{
+        transform: translateY(-150px) rotate(30deg);
+    }
+    100%{
+        opacity: 1;
+        transform: rotate(30deg);
+    }
+}
+.screen05.now .card .orderImg{
+    transition: all 1s linear 2.2s;
+    transform: none;
+}
+.screen05.leaved .sofa{
+    animation: sofa05-06 1s linear;
+}
+@keyframes sofa05-06 {
+    from{
+        opacity: 1;
+        transform: rotate(30deg);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(450px) scale(0.2) rotate(30deg);
+    }
+}
+    /*背景*/
+.screen06{
+    background: url("../images/06-bg.png") no-repeat 25% bottom;
+}
+
+.screen06.now{
+    transition: background 1s linear 1s;
+    background: url("../images/06-bg.png") no-repeat 100% bottom;
+}
+
