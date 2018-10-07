@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c87f45d-a132-4f2e-8e77-b9017daf7ae9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/H5C31/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5C33/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5C33/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5C33/js/html5shiv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5C33/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5C33/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5C33/js/jquery.stellar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/css/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/css/player.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/video/chrome.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/video/fun.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/video/trailer.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5C31/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/H5C31/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5C31/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5C31/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5C31/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/H5C31/js/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,17 +31,26 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/H5C33/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+            <state relative-caret-position="986">
+              <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/H5C33/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="287" column="25" selection-start-line="287" selection-start-column="4" selection-end-line="287" selection-end-column="25" />
+            <state relative-caret-position="4437">
+              <caret line="261" column="14" selection-start-line="261" selection-start-column="14" selection-end-line="261" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/video/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -47,8 +61,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -81,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jq1/13/13.html" />
         <option value="$PROJECT_DIR$/jq1/14.html" />
         <option value="$PROJECT_DIR$/jq1/15/index.html" />
         <option value="$PROJECT_DIR$/jq2/01.html" />
@@ -132,6 +145,7 @@
         <option value="$PROJECT_DIR$/H5C31/demo.html" />
         <option value="$PROJECT_DIR$/H5C33/index.html" />
         <option value="$PROJECT_DIR$/H5C33/css/index.css" />
+        <option value="$PROJECT_DIR$/video/index.html" />
       </list>
     </option>
   </component>
@@ -164,17 +178,6 @@
               <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="H5C33" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="H5C33" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -192,15 +195,15 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\frontend\webapi2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\frontend\video" />
       <recent name="D:\code\frontend\H5C33" />
       <recent name="D:\code\frontend\H5C31\css" />
       <recent name="D:\code\frontend\H5C31" />
       <recent name="D:\code\frontend\ajax" />
-      <recent name="D:\code\frontend\jq3\07" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\code\frontend\webapi2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,7 +240,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="1" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -293,13 +296,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jq2/05/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="59" column="34" lean-forward="true" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jq2/06.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -606,15 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="297" column="38" lean-forward="true" selection-start-line="297" selection-start-column="38" selection-end-line="297" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#p#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#span#2;n#p#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,15 +610,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/H5C33/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        <state relative-caret-position="986">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/H5C33/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="287" column="25" selection-start-line="287" selection-start-column="4" selection-end-line="287" selection-end-column="25" />
+        <state relative-caret-position="4437">
+          <caret line="261" column="14" selection-start-line="261" selection-start-column="14" selection-end-line="261" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
