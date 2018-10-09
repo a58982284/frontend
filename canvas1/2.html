@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<canvas width="600" height="400"></canvas>
+<script>
+    var myCanvas =document.querySelector('canvas');
+    var ctx = myCanvas.getContext('2d');
+
+//画平行线
+ctx.moveTo(100,100.5);
+ctx.lineTo(300,100.5);
+
+ctx.moveTo(100,200.5);
+ctx.lineTo(300,200.5);
+
+ctx.stroke();
+</script>
+</body>
+</html>

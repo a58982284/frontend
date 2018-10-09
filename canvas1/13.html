@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        canvas {
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+<canvas width="600" height="400"></canvas>
+<script>
+    /*1.构造函数*/
+    var LineChart = function (ctx) {
+        this.ctx = ctx || document.querySelector('canvas').getContext('2d');
+        this.canvasWidth = this.ctx.canvas.width;
+        this.canvasHeight = this.ctx.canvas.height;
+        this.gridSize = 10;
+        /*坐标系的间距*/
+        this.space = 20;
+        /*坐标原点*/
+        this.x0 = this.space;
+        this.y0 = this.canvasHeight - this.space;
+        /*箭头的大小*/
+        this.arrowSize = 10;
+        /*绘制点*/
+        this.dottedSize = 6;
+        /*点的坐标 和数据有关系  数据可视化*/
+    }
+    /*2.行为方法*/
+    LineChart.prototype.init = function (data) {
+        this.drawGrid();
+        this.drawAxis();
+        this.drawDotted(data);
+    };
+    /*绘制网格*/
+    LineChart.prototype.drawGrid = function(){
+        /*x方向的线*/
+        var xLineTotal = Math.floor(this.canvasHeight/this.gridSize);
+        
+    }
+</script>
+</body>
+</html>
