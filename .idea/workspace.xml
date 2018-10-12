@@ -2,15 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c87f45d-a132-4f2e-8e77-b9017daf7ae9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/mweb1/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mweb1/css/category.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mweb1/js/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mweb1/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mweb1/js/fastclick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mweb1/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mweb1/js/iscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/fonts/MiFie-Web-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/fonts/MiFie-Web-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/fonts/MiFie-Web-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/fonts/MiFie-Web-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/js/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/artTemplate/template-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/css/bootstrap-theme.min.css(1).map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/html5shiv/html5shiv-printshiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/html5shiv/html5shiv-printshiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/html5shiv/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/html5shiv/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/respond/respond.matchmedia.addListener.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/respond/respond.matchmedia.addListener.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/respond/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootatrap1/lib/respond/respond.src.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mweb1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mweb1/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,29 +49,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="category.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mweb1/category.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootatrap1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
+            <state relative-caret-position="336">
+              <caret line="196" column="37" selection-start-line="196" selection-start-column="37" selection-end-line="196" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mweb1/css/category.css">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootatrap1/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2329">
-              <caret line="137" selection-start-line="137" selection-end-line="137" />
+            <state relative-caret-position="437">
+              <caret line="306" column="1" selection-start-line="306" selection-start-column="1" selection-end-line="306" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mweb1/js/category.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootatrap1/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="369">
+              <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -81,6 +109,13 @@
       <find>background-attachment</find>
       <find>background-image</find>
       <find>pro</find>
+      <find>wjs_topBar</find>
+      <find>wjs_nav</find>
+      <find>wjs_icon_logo</find>
+      <find>navbar-brand</find>
+      <find>navbar-nav</find>
+      <find>disabled</find>
+      <find>navbar-toggle</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jq2/20.html" />
-        <option value="$PROJECT_DIR$/jq2/22_1.html" />
-        <option value="$PROJECT_DIR$/jq2/22.html" />
         <option value="$PROJECT_DIR$/jq3/02.html" />
         <option value="$PROJECT_DIR$/jq3/04.html" />
         <option value="$PROJECT_DIR$/jq3/05.html" />
@@ -140,6 +172,9 @@
         <option value="$PROJECT_DIR$/mweb1/js/index.js" />
         <option value="$PROJECT_DIR$/mweb1/category.html" />
         <option value="$PROJECT_DIR$/mweb1/css/category.css" />
+        <option value="$PROJECT_DIR$/bootatrap1/js/index.js" />
+        <option value="$PROJECT_DIR$/bootatrap1/index.html" />
+        <option value="$PROJECT_DIR$/bootatrap1/css/index.css" />
       </list>
     </option>
   </component>
@@ -152,7 +187,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -165,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,24 +210,25 @@
             <path>
               <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="mweb1" type="462c0819:PsiDirectoryNode" />
+              <item name="bootatrap1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="mweb1" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="mweb1" type="462c0819:PsiDirectoryNode" />
+              <item name="bootatrap1" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="bootatrap1" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,11 +242,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\frontend\bootatrap1\lib" />
+      <recent name="D:\code\frontend\bootatrap1\js" />
+      <recent name="D:\code\frontend\bootatrap1" />
       <recent name="D:\code\frontend\mweb1\js" />
       <recent name="D:\code\frontend\mweb1" />
-      <recent name="D:\code\frontend\video" />
-      <recent name="D:\code\frontend\H5C33" />
-      <recent name="D:\code\frontend\H5C31\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\frontend\webapi2" />
@@ -251,7 +286,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32890365" />
@@ -260,7 +296,7 @@
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32885906" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31083202" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32025117" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -306,27 +342,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jq3/14.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jq3/18.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jq3/19.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ajax/server.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -606,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mweb1/css/category.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2329">
-          <caret line="137" selection-start-line="137" selection-end-line="137" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -620,10 +628,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mweb1/css/category.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mweb1/js/category.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootatrap1/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootatrap1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="196" column="37" selection-start-line="196" selection-start-column="37" selection-end-line="196" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootatrap1/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="306" column="1" selection-start-line="306" selection-start-column="1" selection-end-line="306" selection-end-column="1" />
         </state>
       </provider>
     </entry>
